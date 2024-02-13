@@ -1,1 +1,1 @@
-# Maven-Web-Application-Archive
+# CLI-Interactive-Maven-WAR-2024
